@@ -1,4 +1,4 @@
-# VFM Data Analyst Portfolio Project
+# Data Analyst Portfolio Project
 
 *eng version below
 
@@ -12,10 +12,12 @@
 ## СТРУКТУРА ПРОЕКТА  
 - `/sql/create_tables/` — SQL-скрипты создания таблиц в phpPgAdmin  
 - `/sql/sample_data/` — SQL-скрипты для генерации случайных данных  
-- `/sql/analytics_queries/` — аналитические SQL-запросы  
+- `/sql/analytics_queries/` — аналитические SQL-запросы
+
 - `/db_structure/db_structure.sql/` — SQL-скрипт для генерации структуры базы данных  
 - `/db_structure/db_structure.png/` — визуализация структуры базы данных  
-- `/db_structure/db_structure.dbml.txt/` — скрипт на DBML для генерации структуры базы  
+- `/db_structure/db_structure.dbml.txt/` — скрипт на DBML для генерации структуры базы
+  
 - `/excel_analysis/excel/` — сводные таблицы и визуализации в Excel  
 - `/tableau_visual/tableau/` — отчеты и дашборды в Tableau  
 - `README.md` — текущее описание проекта  
@@ -61,7 +63,7 @@
 
 
 
-ENG VERSION-----------------------------------------------------------------------------------------------------------------------------------------------
+ENG VERSION-----------------------------------------------------------------------------------------------------------------------
 # VFM Data Analyst Portfolio Project
 
 ## DESCRIPTION  
