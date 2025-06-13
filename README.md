@@ -9,16 +9,18 @@
 
 
 ## СТРУКТУРА ПРОЕКТА  
-- db_strcuture - структура базы данных
-	-	`/db_structure/db_structure.sql/` — SQL-скрипт для генерации структуры базы данных  
-	- `/db_structure/db_structure.png/` — визуализация структуры базы данных  
-	- `/db_structure/db_structure.dbml.txt/` — скрипт на DBML для генерации структуры базы
+- db_structure - [структура базы данных](https://dbdiagram.io/d/Damosha-67f938904f7afba184458506)
+	- [SQL-скрипт для генерации структуры базы данных](db_structure/db_structure.sql)  
+	- [визуализация структуры базы данных](db_structure/db_structure.png)  
+	- [скрипт на DBML для генерации структуры БД](db_structure/db_structure.dbml.txt)
 
-- sql - аналитические запросы в sql
+- sql_queries - запросы в sql
+	- [запросы для создания таблиц в БД](sql_queries/create_tables.sql)
+	- [запросы для генерации рандомных данных](sql_queries/sample_data.sql)
+	- [аналитические запросы](sql_queries/analytics_queries.sql)
+
 - visual - дашборды и аналитика
   - `/tableau_visual/tableau/` — отчеты и дашборды в Tableau  
-
-- README.md — текущее описание проекта  
 
 
 
