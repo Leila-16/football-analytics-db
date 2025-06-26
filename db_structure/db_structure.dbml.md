@@ -1,4 +1,4 @@
-
+```dbml
 Table Users {
   user_id int [pk, not null]
   email varchar(100) [unique, not null]
@@ -138,7 +138,7 @@ Table working_legs{
   working_leg_id int [pk, not null]
   working_leg_name varchar [unique, not null]
 }
-
+```
 Table country{
   country_id int [pk]
   country_name varchar
